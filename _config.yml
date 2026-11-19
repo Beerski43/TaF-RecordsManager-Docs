@@ -1,0 +1,10 @@
+# このファイルは TaF-RecordsManager の scripts/publish_docs.py が作る。手で直さない
+title: 陸上競技部 記録管理
+lang: ja
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: false
+exclude:
+  - README.md
